@@ -44,8 +44,8 @@ const Home = () => {
         </div>
 
         <div className = "col-xs-12 col-sm-12 col-md-4" >
-        <Link to={'/'} className="nav-link"><img src = { require('../../assets/courses.png') } className = "images__banner grow" /></Link>
-        <Link to={'/'} className="nav-link"><h3 className = "course_heading underline" > Courses </h3> </Link>
+        <Link to={'/Courses'} className="nav-link"><img src = { require('../../assets/courses.png') } className = "images__banner grow" /></Link>
+        <Link to={'/Courses'} className="nav-link"><h3 className = "course_heading underline" > Courses </h3> </Link>
         <p className="ques grow">Want to learn new skills?</p>
         <p className="quesp" id="quesp2"> Get the best curated list of courses and playlists all at one place.</p>
          </div> 

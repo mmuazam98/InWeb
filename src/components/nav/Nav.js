@@ -21,7 +21,7 @@ function Nav() {
         <li className = "nav-item text-center" >
         <Link to={'/Blogs'} className="nav-link">Tech Blogs </Link></li> 
         <li className = "nav-item text-center" >
-        <Link to={'/'} className="nav-link">Courses </Link> </li> 
+        <Link to={'/Courses'} className="nav-link">Courses </Link> </li> 
         <li className = "nav-item text-center" >
         <Link to={'/'} className="nav-link">Polling </Link> </li> 
         <li className = "nav-item text-center" >
