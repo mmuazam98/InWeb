@@ -1,0 +1,56 @@
+.Profile {
+  min-height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.Profile .card {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 6px;
+  border-radius: 10px;
+}
+@media (max-width: 768px) {
+  .Profile {
+    margin-top: 100px;
+  }
+}
+.Profile .btn-green {
+  background: var(--green);
+  color: var(--white);
+  margin-right: 10px;
+}
+.Profile .btn-outline-green {
+  border: 1px solid var(--green);
+  color: var(--green);
+}
+.mypolls .col-sm-4 {
+  background: var(--white);
+  margin: 10px 0;
+  padding: 20px 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px;
+  flex: 0 0 31.333333%;
+  max-width: 300px;
+  min-width: 300px;
+}
+.mypolls .col-sm-4 a {
+  font-size: 20px;
+  color: var(--green);
+  line-height: 20px;
+}
+.mypolls .col-sm-4 .category {
+  font-size: 12px;
+  color: var(--grey-400);
+  border: 1px solid var(--grey-400);
+  border-radius: 12px;
+  padding: 2px 5px 2px 4px;
+  cursor: pointer;
+}
+.mypolls .col-sm-4 p {
+  margin: 10px 0 0;
+}
+.mypolls .col-sm-4 .date {
+  color: var(--grey-600);
+  font-size: 12px;
+}

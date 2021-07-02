@@ -1,0 +1,140 @@
+.CreateBox {
+  margin: 90px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+.CreateBox .box {
+  width: 50rem;
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--white);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position: relative;
+  transition: all 0.4s;
+}
+.CreateBox .box .child {
+  text-align: center;
+  padding: 30px 20px;
+}
+.CreateBox .box .child h1 {
+  transition: all 0.4s;
+  font-weight: 700;
+}
+.CreateBox .box .child span#new {
+  color: #db544e;
+}
+.CreateBox .box .child p {
+  font-size: 18px;
+  transition: all 0.4s;
+  color: var(--grey-500);
+}
+.CreateBox .box .child .pollImage {
+  width: 200px;
+  height: 200px;
+}
+.CreateBox .box .btn-create {
+  background: var(--green);
+  color: var(--white);
+  font-size: 18px;
+  margin: 0 10px;
+  transition: all 0.4s;
+}
+.CreateBox .box .btn-create:hover {
+  background: #3e9b7e;
+}
+.CreateBox .button a {
+  text-decoration: none;
+}
+@media (max-width: 767px) {
+  .CreateBox .box {
+    width: 40rem;
+  }
+  .CreateBox .box .child .pollImage {
+    margin-bottom: 15px;
+  }
+  .CreateBox .box .child h1 {
+    font-size: 30px;
+  }
+  .CreateBox .box .child p {
+    font-size: 16px;
+  }
+  .CreateBox .box .btn-create {
+    font-size: 16px;
+  }
+}
+@media (max-width: 660px) {
+  .CreateBox .box {
+    width: 35rem;
+  }
+}
+
+@media (max-width: 585px) {
+  .CreateBox .box {
+    width: 30rem;
+    height: 25rem;
+    padding-top: 20px;
+  }
+  .CreateBox .box .child .pollImage {
+    width: 170px;
+    height: 170px;
+    margin-bottom: 30px;
+  }
+  .CreateBox .box .child h1 {
+    font-size: 25px;
+  }
+  .CreateBox .box .child p {
+    font-size: 13px;
+  }
+  .CreateBox .box .btn-create {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 500px) {
+  .CreateBox .box {
+    width: 25rem;
+  }
+  .CreateBox .box .child .pollImage {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+  }
+  .CreateBox .box .child h1 {
+    font-size: 25px;
+  }
+  .CreateBox .box .child p {
+    font-size: 13px;
+  }
+  .CreateBox .box .button {
+    position: relative;
+    top: -20px;
+  }
+  .CreateBox .box .btn-create {
+    font-size: 13px;
+    margin: 7px 10px !important;
+  }
+}
+@media (max-width: 430px) {
+  .CreateBox .box {
+    width: 23rem;
+  }
+  .CreateBox .box .child .pollImage {
+    width: 130px;
+    height: 130px;
+  }
+  .CreateBox .box .button {
+    position: relative;
+    top: 0;
+  }
+}
+@media (max-width: 385px) {
+  .CreateBox .box {
+    width: 20rem;
+    height: 27rem;
+  }
+}

@@ -1,0 +1,13 @@
+footer {
+  background-color: #3e4450 !important;
+  color: white !important;
+  text-align: center;
+  padding: 30px 0 15px;
+  position: relative;
+  top: 100px;
+}
+footer a,
+footer a:hover {
+  color: var(--green);
+  text-decoration: underline;
+}

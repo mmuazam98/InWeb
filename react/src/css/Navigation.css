@@ -1,0 +1,54 @@
+.btn-logout {
+  background: var(--green) !important;
+  color: var(--white) !important;
+}
+nav {
+  height: 60px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.nav-links {
+  text-decoration: none;
+  color: var(--grey-600);
+  margin: 0 10px;
+  font-size: 18px;
+  font-weight: 300;
+  transition: all 0.3s;
+}
+.nav-links:hover {
+  text-decoration: none;
+  color: var(--black);
+}
+.active {
+  color: var(--black);
+  font-weight: 500;
+}
+nav img {
+  width: 50px;
+  height: 50px;
+}
+.navbar-toggler {
+  border: none;
+  outline: none;
+}
+.profile svg {
+  font-size: 25px;
+}
+.profile.activePage {
+  background: var(--grey-100);
+}
+@media (max-width: 767px) {
+  nav {
+    height: 70px;
+  }
+  #basic-navbar-nav {
+    background: var(--white);
+    box-shadow: rgba(0, 0, 0, 0.5) 1.95px 1.95px 6px;
+    margin-top: 20px;
+    padding: 30px 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .nav-links {
+    margin-bottom: 15px;
+  }
+}

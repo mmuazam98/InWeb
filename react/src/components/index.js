@@ -1,0 +1,9 @@
+export { default as Login } from "./Login";
+export { default as Navigation } from "./Navigation";
+export { default as Home } from "./Home";
+export { default as Poll } from "./Poll";
+export { default as Discover } from "./Discover";
+export { default as SinglePoll } from "./SinglePoll";
+export { default as Profile } from "./Profile";
+export { default as User } from "./User";
+export { default as Footer } from "./Footer";

@@ -1,0 +1,91 @@
+.container-discover {
+  background: var(--white);
+  padding: 30px 40px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 10px;
+  margin: 100px auto;
+  position: relative;
+  /* position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%); */
+  transition: all 0.3s;
+}
+
+.container-discover h1 {
+  font-size: 30px;
+  font-weight: 600;
+}
+.container-discover p {
+  color: var(--grey-600);
+  margin-bottom: 10px;
+}
+.trending h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+#list li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+#list aside {
+  padding-left: 50px;
+  position: relative;
+  top: -32px;
+}
+#list a {
+  text-decoration: none;
+  color: var(--green);
+  font-size: 22px;
+}
+#list a:hover {
+  text-decoration: underline;
+}
+#list span.likes {
+  /* position: absolute; */
+  position: relative;
+  cursor: pointer;
+  padding: 2px 12px;
+  font-size: 16px;
+  color: var(--white) !important;
+  z-index: 3;
+}
+#list span.likes::before {
+  content: "";
+  position: absolute;
+  height: 35px;
+  width: 35px;
+  top: 48%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--green);
+  z-index: -1;
+  border-radius: 50%;
+}
+#list .category {
+  font-size: 12px;
+  color: var(--grey-400);
+  border: 1px solid var(--grey-400);
+  border-radius: 12px;
+  padding: 2px 5px 2px 4px;
+  cursor: pointer;
+}
+#list p {
+  margin: 10px 0 0;
+}
+#list .date {
+  color: var(--grey-600);
+
+  font-size: 12px;
+}
+@media (max-width: 500px) {
+  .container-discover h1 {
+    font-size: 25px;
+  }
+  .trending h2 {
+    font-size: 20px;
+  }
+  #list a {
+    font-size: 18px;
+  }
+}

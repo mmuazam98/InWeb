@@ -1,0 +1,39 @@
+.SinglePoll {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* margin-top: 100px; */
+}
+.SinglePoll .pollBox {
+  background: var(--white);
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.SinglePoll .action {
+  display: inline;
+  margin: 20px;
+}
+.SinglePoll #title {
+  font-size: 30px;
+  font-weight: 600;
+}
+.SinglePoll #sub {
+  color: var(--grey-500);
+}
+.SinglePoll #sub a {
+  color: var(--green);
+}
+.SinglePoll .likedArrow.isActive svg {
+  color: var(--green) !important;
+}
+.SinglePoll .likedArrow.isActive ~ span {
+  color: var(--green);
+}
+.SinglePoll .dislikedArrow.isActive svg {
+  color: red !important;
+}
+.SinglePoll .dislikedArrow.isActive ~ span {
+  color: red;
+}
