@@ -1,9 +1,5 @@
 <h1 align="center"><b> COLLEGE MADE SIMPLER </b></h1>
-<!--  <p align="center">
-    <a href="" target="_blank">
-        <img width="40%" height="60%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwink-gifs&psig=AOvVaw3mrIOBguYE10cXYl2ph7Yu&ust=1625295976512000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDj8r_pw_ECFQAAAAAdAAAAABAn" alt="">
-    </a>
-   </p> -->
+
   <div align="center">   
     
   ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
