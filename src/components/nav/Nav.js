@@ -1,5 +1,5 @@
 import './nav.css';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { BrowserRouter as  Route, Link } from 'react-router-dom';
 import React from 'react'
 
 

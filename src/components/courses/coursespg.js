@@ -23,7 +23,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE101J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -33,7 +33,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE102J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -43,7 +43,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE103J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE104J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE105J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE106J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -87,7 +87,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE107J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE108J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>
@@ -107,7 +107,7 @@ const Course = () => {
             <div className="card-body">
               <h5 className="card-title">18CSE109J</h5>
               <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-success">View Contents</a>
+              <div class="btn btn-success">View Contents</div>
             </div>
           </div>
         </div>

@@ -43,7 +43,7 @@ const Blogs = () => {
 			<div>
 			<Nav/>
 			<div className={classes.logoContainer} >
-				<img src={require('../../assets/articles.gif')} className={classes.newsLogo} alt="News Logo"/>
+				<img src={require('../../assets/articles.gif')} className={classes.newsLogo} alt=" Logo"/>
 			</div>
 			<NewsCards articles={newsArticles} activeArticle={activeArticle}/>
 			<Footer/>

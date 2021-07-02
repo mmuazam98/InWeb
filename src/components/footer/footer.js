@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-md-4">
                         <div className="text-center grow">
-                            <img src = { require('../../assets/logo.png') } className="logo" />
+                            <img src = { require('../../assets/logo.png') } className="logo" alt="logo" />
                             <br/><br/>
                         </div>
                         <h2 className="text-center">College Made Simpler</h2>
@@ -42,7 +42,7 @@ const Footer = () => {
                   
                     <div className="col-12">
                         <div className="text-center footer_image">
-                            <img src = { require('../../assets/footer.png') } />
+                            <img src = { require('../../assets/footer.png') } alt="footer"/>
                         </div>
                         <hr className="light-100 "/>
                         <h5 className="text-center"> © 2021 CMS</h5>

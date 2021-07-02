@@ -118,7 +118,7 @@ font-weight: 520;
   border-radius: 50px !important;
 }
 .threecol{
-  background-color: #dbdbdb;
+  background-color: #ffffff;
   padding: 1.5rem 0rem 1.5rem 1.5rem !important;
 }
 
@@ -142,6 +142,7 @@ border-radius: 15px;
 padding: 8%;
 text-shadow: #000 ;
 }
+
 #quesp1{
 background-color: #3baf8a;
 }

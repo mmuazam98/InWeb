@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { BrowserRouter as  Route, Link } from 'react-router-dom';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import Nav from '../nav/Nav';
 import Footer from '../footer/footer';
@@ -33,7 +33,7 @@ const Courses = () => {
 
 
         <div className="col-sm-6 my-5 text-center">
-        <img src = { require('../../assets/coursesbanner.png') } className = "courses__banner grow" />
+        <img src = { require('../../assets/coursesbanner.png') } className = "courses__banner grow" alt="banner" />
         </div>
       </div>
     </div>
