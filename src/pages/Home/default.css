@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 * {
   margin: 0;
@@ -12,7 +11,8 @@ html {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  background-color: #e1e8ff;
+  font-family: "Montserrat", sans-serif;
 }
 
 @media (min-width: 1600px) {

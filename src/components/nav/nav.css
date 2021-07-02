@@ -1,22 +1,37 @@
-.nav-link{
-    font-size:2em !important ;
-  }
-  button.navbar-toggler
-  {
-    border:none;
-  }
-  
-.navbar{
-    padding:0.2rem ;
-  }
-  .navbar-nav li {
-    padding: 10px;
-  }
-  .navbar-brand{
-    color:#3baf8a !important;
-    text-transform: uppercase !important;
-    font-size: 2em !important;
-  }
-  .black{
-    color: #000;
-  }
+.nav-link {
+  font-size: 2em !important ;
+}
+button.navbar-toggler {
+  border: none;
+}
+nav {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.navbar {
+  padding: 0.2rem;
+}
+.navbar-nav li {
+  padding: 10px;
+}
+.navbar-brand img {
+  width: 50px;
+  height: 50px;
+}
+.black {
+  color: #000;
+}
+.nav-link {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.6) !important;
+  font-size: 18px !important;
+  font-weight: 300 !important;
+  transition: all 0.3s;
+}
+.nav-link:hover {
+  text-decoration: none;
+  color: #000;
+}
+.active.nav-link {
+  color: #000 !important;
+  font-weight: 500 !important;
+}

@@ -10,12 +10,12 @@
  ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
 
-
 </div>
 
 ## About:
 
 COLLEGE MADE SIMPLER - A web-app which will help students create polls on important issues which are going on in college in order to gain idea of what other students have to say about them and also how many students are in support of the cause. It helps in connecting large number of students, make them aware of the issues and help them come together.
+
 <div align = "">
  <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.55.29.jpeg" alt="">
 </div>
@@ -34,9 +34,7 @@ COLLEGE MADE SIMPLER - A web-app which will help students create polls on import
 <div align = "">
  <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.30.25.jpeg" alt="">
 </div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.30.25.jpeg" alt="">
-</div>
+
 </div>
 <div align = "">
  <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.59.29.jpeg" alt="">
@@ -62,24 +60,22 @@ COLLEGE MADE SIMPLER - A web-app which will help students create polls on import
  </div>
 
 ## Community and Contributions:
+
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, follow it in all your interactions with the project.
 
 ## Found a bug? Missing a specific feature?
 
 Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our contribution guidelines to find out about our coding standards.
 
-
 ## Licence:
+
 The Project is released under the terms of the #######
-
-
 
 <div align="center">
    <h1>All Contributers</h1>
 </div>
 
 </br>
-
 
 <table>
   <tr>

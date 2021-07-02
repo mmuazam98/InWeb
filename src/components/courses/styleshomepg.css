@@ -1,49 +1,51 @@
-
 .h3 {
   color: green;
 }
-
-.courses__heading { 
-  color: #f2f2f2; 
-  background: #3baf8a; 
+.courses {
+  min-height: 100vh;
+  padding: 30px 0;
+}
+.pt-6 {
+  padding-top: 60px;
+}
+.courses__heading {
+  color: #f2f2f2;
+  background: #3baf8a;
   border-radius: 5px;
-  font-size: 75px; 
-  line-height: 74px; 
-  font-weight: 700; 
-  margin: 0 5px 24px; 
-  float: left; 
-  padding: 10px; 
-  margin: 0 5px 24px; 
-  font-family: 'Libre Baskerville', serif;
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 700;
+  margin: 0 5px 15px;
+  padding: 10px;
+  /* font-family: "Libre Baskerville", serif; */
 }
-.courses__banner{
+.courses p {
+  font-size: 18px;
+}
+.courses__banner {
   align-items: center;
-  height: 85%;
-  width:70%;
-  margin-left: 10%;
+  width: 300px;
+  /* margin-left: 10%; */
 }
-.courses__button{
-margin-bottom: 4%;
-width: 90%;
-
+.courses__button {
+  margin-bottom: 10px;
+  font-size: 17px;
+  color: #fff !important;
+  padding: 10px;
+  border-radius: 10px;
+  width: 300px;
 }
-
+.disabled-btn:hover {
+  cursor: not-allowed;
+}
 @media (max-width: 768px) {
-  
-}
-
-@media (max-width: 576px){
-  .courses__heading { 
-   
-    border-radius: 5px;
-    font-size: 3rem; 
-    line-height: 74px; 
-text-align: center;
-    font-weight: 700; 
-    margin: 0 5px 24px; 
-    float: left; 
-    padding: 10px; 
-    margin: 0 5px 24px; 
-    font-family: 'Libre Baskerville', serif;
+  .row {
+    flex-direction: column-reverse;
+  }
+  .courses__heading {
+    font-size: 40px;
+  }
+  .courses p {
+    font-size: 16px;
   }
 }
