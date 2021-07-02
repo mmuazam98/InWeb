@@ -51,8 +51,8 @@ const Home = () => {
          </div> 
 
         <div className = "col-xs-12 col-sm-12 col-md-4" >
-        <Link to={'/'} className="nav-link"><img src = { require('../../assets/poll.png') }className = "images__banner grow" /></Link>
-        <Link to={'/'} className="nav-link"><h3 className = "course_heading underline" > Polling </h3> </Link>
+        <a href="https://collegemadesimpler.herokuapp.com" target="_blank" className="nav-link"><img src = { require('../../assets/poll.png') }className = "images__banner grow" /></a>
+        <a href="https://collegemadesimpler.herokuapp.com" target="_blank" className="nav-link"><h3 className = "course_heading underline" > Polling </h3> </a>
         <p className="ques grow"> Having an issue? </p> 
         <p className="quesp" id="quesp3"> Start your own poll and let the issue get into management's notice.</p>
         </div>
