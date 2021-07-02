@@ -39,7 +39,7 @@
   cursor: not-allowed;
 }
 @media (max-width: 768px) {
-  .row {
+  .courses .row {
     flex-direction: column-reverse;
   }
   .courses__heading {

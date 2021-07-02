@@ -109,6 +109,7 @@ a {
   margin-top: 5%;
   background: #3baf8a !important;
   border-radius: 50px !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 1.95px 1.95px 6px;
   padding: 10px 20px;
   color: white;
 }
@@ -135,6 +136,8 @@ a {
   border-radius: 15px;
   padding: 8%;
   text-shadow: #000;
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.25) 1.95px 1.95px 2.6px;
 }
 
 #quesp1 {

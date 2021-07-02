@@ -35,3 +35,15 @@ nav {
   color: #000 !important;
   font-weight: 500 !important;
 }
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 2.5em;
+  height: 2.5em;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
