@@ -20,7 +20,7 @@ const Footer = () => {
                         <hr className="light"/>
                         <ul className="social_icon d-flex justify-content-center ">
                             <li> <a href="https://www.linkedin.com/in/pranjay-poddar/" target="blank"><i className="fab fa-linkedin grow"></i></a></li>
-                            <li> <a href="https://github.com/mmuazam98/InWeb2.0" target="blank"><i className="fab fa-github grow"></i></a></li>
+                            <li> <a href="https://github.com/pranjay-poddar/Inweb-2.0" target="blank"><i className="fab fa-github grow"></i></a></li>
                         </ul>
                     </div>
                     <div className="col-md-4">

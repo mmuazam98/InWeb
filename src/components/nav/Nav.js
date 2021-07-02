@@ -23,7 +23,7 @@ function Nav() {
         <li className = "nav-item text-center" >
         <Link to={'/Courses'} className="nav-link">Courses </Link> </li> 
         <li className = "nav-item text-center" >
-        <Link to={'/'} className="nav-link">Polling </Link> </li> 
+        <a href="https://collegemadesimpler.herokuapp.com" target="_blank" className="nav-link">Polling </a> </li> 
         <li className = "nav-item text-center" >
         <Link to={'/Home'} className="nav-link">Contact Us </Link> </li>
          </ul>
