@@ -33,6 +33,7 @@ COLLEGE MADE SIMPLER - A web-app which will help students create polls on import
 <img width=40% src="ScreenShots/17.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img width=40% src="ScreenShots/18.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
+
 ## Languages and Frameworks used:
 
 <div>
