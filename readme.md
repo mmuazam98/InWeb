@@ -67,7 +67,7 @@ The Project is released under the terms of the #######
 </td>
       
   
-   <td align="center"><a href=""><img src="#url" width="250px;" height="180px;" alt=""/><br /><sub><b>ABHUDAY MISHRA</b></sub></a><br />
+   <td align="center"><a href=""><img src="#url" width="250px;" height="180px;" alt=""/><br /><sub><b>Xyz</b></sub></a><br />
 <p align="center">
     
    <a href="#" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -76,7 +76,7 @@ The Project is released under the terms of the #######
   </p>
 </td>
 
-<td align="center"><a href="#"><img src="#url" width="250px;" height="180px;" alt=""/><br /><sub><b>YADVI BHALLA</b></sub></a><br />
+<td align="center"><a href="#"><img src="#url" width="250px;" height="180px;" alt=""/><br /><sub><b>xyz</b></sub></a><br />
     <p align="center">
    
    <a href="#" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -85,7 +85,7 @@ The Project is released under the terms of the #######
   </p>
   </td>
   
-   <td align="center"><a href=""><img src="#url" width="250px;" height="180px;" alt=""/><br /><sub><b>ARPITA CHATTERJEE</b></sub></a><br /><p align="center">
+   <td align="center"><a href=""><img src="#url" width="250px;" height="180px;" alt=""/><br /><sub><b></b></sub></a><br /><p align="center">
     
    <a href="#" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:#" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
