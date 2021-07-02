@@ -34,6 +34,9 @@ COLLEGE MADE SIMPLER - A web-app which will help students create polls on import
 <img width=40% src="ScreenShots/18.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
+## Website
+<a href="https://collegemadesimpler.netlify.app/" target="_blank">https://bit.ly/collegemadesimpler</a>
+
 ## Languages and Frameworks used:
 
 <div>
