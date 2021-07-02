@@ -16,48 +16,36 @@
 
 COLLEGE MADE SIMPLER - A web-app which will help students create polls on important issues which are going on in college in order to gain idea of what other students have to say about them and also how many students are in support of the cause. It helps in connecting large number of students, make them aware of the issues and help them come together.
 
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.55.29.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.56.02.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.29.37.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.56.16.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.30.09.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.30.25.jpeg" alt="">
-</div>
+## Quick Glance
 
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2012.59.29.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2013.00.11.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2013.00.36.jpeg" alt="">
-</div>
-<div align = "">
- <img width="80%" height="70%" src="https://github.com/mmuazam98/InWeb2.0/blob/main/Website%20pics/WhatsApp%20Image%202021-07-02%20at%2013.01.06.jpeg" alt="">
-</div>
-
+<p align="left">
+<img width=40% src="ScreenShots/01.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/02.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+<img width=40% src="ScreenShots/03.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/04.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/05.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/11.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/12.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/13.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/14.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/15.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/16.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/17.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="ScreenShots/18.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</p>
 ## Languages and Frameworks used:
 
- <div>
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<div>
+ <img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodedotjs"/>
+ <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+ <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/jsx%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61DBFB"/><br>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap%20-%23323330.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
- </div>
+ <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+</div>
 
 ## Community and Contributions:
 
@@ -79,16 +67,7 @@ The Project is released under the terms of the #######
 
 <table>
   <tr>
-       <td align="center"><a href="Pranjay"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/pranjay.jpg" width="250px;" height="180px;" alt=""/><br /><sub><b>PRANJAY PODDAR</b></sub></a><br ><p align="center">
-   
-   <a href="https://www.linkedin.com/in/pranjay-poddar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:pranjaypoddar@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://github.com/pranjay-poddar" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-</td>
-      
-  
-   <td align="center"><a href="Muazam"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/muazam.jpeg" width="250px;" height="180px;" alt=""/><br /><sub><b>Mohammad Muazam</b></sub></a><br />
+         <td align="center"><a href="Muazam"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/muazam.jpeg" width="200px;" height="200px;" alt=""/><br /><sub><b>Mohammad Muazam</b></sub></a><br />
 <p align="center">
     
    <a href="https://www.linkedin.com/in/mohammad-muazam-129838190/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -96,8 +75,16 @@ The Project is released under the terms of the #######
     <a href="https://github.com/mmuazam98" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </td>
+       <td align="center"><a href="Pranjay"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/pranjay.jpg" width="200px;" height="200px;" alt=""/><br /><sub><b>PRANJAY PODDAR</b></sub></a><br ><p align="center">
+   
+   <a href="https://www.linkedin.com/in/pranjay-poddar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:pranjaypoddar@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://github.com/pranjay-poddar" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</td>
 
-<td align="center"><a href="Chirag"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/chirag.jpeg" width="250px;" height="180px;" alt=""/><br /><sub><b>Chirag Bhatia</b></sub></a><br />
+
+<td align="center"><a href="Chirag"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/chirag.jpeg" width="200px;" height="200px;" alt=""/><br /><sub><b>Chirag Bhatia</b></sub></a><br />
     <p align="center">
    
    <a href="https://www.linkedin.com/in/chirag-bhatia-3abb81189/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -106,7 +93,7 @@ The Project is released under the terms of the #######
   </p>
   </td>
   
-   <td align="center"><a href="Palak"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/palak.jpg" width="250px;" height="180px;" alt=""/><br /><sub><b>Palak Aggarwal</b></sub></a><br /><p align="center">
+   <td align="center"><a href="Palak"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/palak.jpg" width="200px;" height="200px;" alt=""/><br /><sub><b>Palak Aggarwal</b></sub></a><br /><p align="center">
     
    <a href="https://www.linkedin.com/in/palak-aggarwal-96366a18b/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:palakaggarwal1234@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
