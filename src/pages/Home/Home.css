@@ -1,0 +1,260 @@
+
+.grow {
+  transition: all 0.2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.05);
+}
+
+.underline{
+  position: relative;
+  color: #3baf8a;
+  text-decoration: none;
+}
+
+.underline:hover {
+  color: #3baf8a;
+}
+.underline::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out 0s;
+}
+.underline:hover::before {
+  visibility: visible;
+  transform: scaleX(1);
+}
+
+
+/* scrollbar start  */
+
+::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 50%;
+}
+
+
+/* Track */
+
+::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0);
+  border-radius: 0;
+}
+
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+  background: #3baf8a;
+}
+
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5c5c5c;
+}
+.row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+#home{
+  padding: 0 !important;
+  
+}
+
+.images__banner{
+  height: 25rem;
+  width: 25rem;
+  border-radius: 50%;
+}
+.course_heading{
+font-size: 3.5rem;
+padding-bottom: 5%;
+color: black;
+border-radius: 80px;
+}
+a{
+  text-decoration: none !important;
+}
+.banner{
+  margin-top:5% ;
+  height:40rem;
+  width: 50rem;;
+}
+
+
+.head1{
+color:#3baf8a;
+font-size: 5rem;
+font-family: sans-serif;
+margin-top: 17%;
+font-weight: 520;
+}
+.head2{
+  color:black;
+  font-size: 5rem;
+  font-family: sans-serif;
+  font-weight: 520;
+}
+.head3{
+  color:#3baf8a;
+  font-size: 5rem;
+  font-family: sans-serif;
+  font-weight: 520;
+}
+.button1{
+  font-size: 2rem !important;
+ margin-top: 5%;
+  background: #3baf8a !important;
+  border-radius: 50px !important;
+}
+.threecol{
+  background-color: #dbdbdb;
+  padding: 1.5rem 0rem 1.5rem 1.5rem !important;
+}
+
+.jumbotron{
+  padding:1rem;
+  border-radius: 0;
+  height:100vh;
+}
+.ques{
+font-size: 2.4rem;
+color: black;
+font-weight: 600;
+
+}
+.quesp{
+font-size: 2rem;
+color: rgb(255, 255, 255);
+font-weight: 400;
+font-family: sans-serif;
+border-radius: 15px;
+padding: 8%;
+text-shadow: #000 ;
+}
+#quesp1{
+background-color: #3baf8a;
+}
+#quesp2{
+  background-color: #F6BA3B;
+}
+#quesp3{
+  background-color: #ba55d3;
+}
+
+.welcome{
+  width:75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr{
+  border-top:2px solid #b4b4b4;
+  width: 95%;
+  margin-top:.3rem;
+  margin-bottom:1rem;
+}
+
+footer{
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top:2rem;
+}
+hr.light{
+ border-top:1px solid #d5d5d5;
+ width:75%;
+ margin-top:.8rem;
+ margin-bottom:1rem;
+}
+footer a {
+  color:#d5d5d5;
+}
+hr.light-100{
+ border-top:1px solid #d5d5d5;
+ width:75%;
+ margin-top:.8rem;
+ margin-bottom:1rem;
+}
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+  .banner{
+    margin-top:1% ;
+    height:36rem;
+    width: 43rem;;
+  }
+  .images__banner{
+    height: 21rem;
+    width: 21rem;
+    border-radius: 50%;
+  }
+  .head1{
+    color:#3baf8a;
+    font-size: 5rem;
+    font-family: sans-serif;
+    margin-top: 1%;
+    font-weight: 520;
+    }
+    .quesp{
+      font-size: 1.8rem;
+      color: rgb(230, 230, 230);
+      font-weight: 400; 
+      border: #000 solid 1px;
+      }
+      .ques{
+        font-size: 2rem;
+        color: black;
+        font-weight: 600;
+        }
+}
+
+@media (max-width: 768px) {
+  .banner{
+    margin-top:5% ;
+    height:40rem;
+    width: 50rem;;
+  }
+  .ques{
+    font-size: 2.4rem;
+    color: black;
+    font-weight: 600;
+    }
+    .quesp{
+      font-size: 2.2rem;
+      color: rgb(255, 255, 255);
+      font-weight: 400; 
+      border: #000 solid 1px;
+      }
+      .course_heading{
+        font-size: 3.5rem;
+        padding-bottom: 5%;
+        }
+
+}
+@media (max-width: 576px) {
+  .banner{
+    margin-top:5% ;
+    height:30rem;
+    width: 40rem;;
+  }
+  
+}
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+
+
+

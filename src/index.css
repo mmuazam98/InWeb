@@ -1,0 +1,17 @@
+#root, body, html {
+	height: 100vh;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: whitesmoke;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}

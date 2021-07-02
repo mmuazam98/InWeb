@@ -1,0 +1,22 @@
+.nav-link{
+    font-size:2em !important ;
+  }
+  button.navbar-toggler
+  {
+    border:none;
+  }
+  
+.navbar{
+    padding:0.2rem ;
+  }
+  .navbar-nav li {
+    padding: 10px;
+  }
+  .navbar-brand{
+    color:#3baf8a !important;
+    text-transform: uppercase !important;
+    font-size: 2em !important;
+  }
+  .black{
+    color: #000;
+  }

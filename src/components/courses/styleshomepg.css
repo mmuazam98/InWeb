@@ -1,0 +1,49 @@
+
+.h3 {
+  color: green;
+}
+
+.courses__heading { 
+  color: #f2f2f2; 
+  background: #3baf8a; 
+  border-radius: 5px;
+  font-size: 75px; 
+  line-height: 74px; 
+  font-weight: 700; 
+  margin: 0 5px 24px; 
+  float: left; 
+  padding: 10px; 
+  margin: 0 5px 24px; 
+  font-family: 'Libre Baskerville', serif;
+}
+.courses__banner{
+  align-items: center;
+  height: 85%;
+  width:70%;
+  margin-left: 10%;
+}
+.courses__button{
+margin-bottom: 4%;
+width: 90%;
+
+}
+
+@media (max-width: 768px) {
+  
+}
+
+@media (max-width: 576px){
+  .courses__heading { 
+   
+    border-radius: 5px;
+    font-size: 3rem; 
+    line-height: 74px; 
+text-align: center;
+    font-weight: 700; 
+    margin: 0 5px 24px; 
+    float: left; 
+    padding: 10px; 
+    margin: 0 5px 24px; 
+    font-family: 'Libre Baskerville', serif;
+  }
+}
