@@ -57,7 +57,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 ## Licence:
 
-The Project is released under the terms of the #######
+[![License](http://img.shields.io/:license-ISC-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <div align="center">
    <h1>All Contributers</h1>
