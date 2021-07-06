@@ -1,4 +1,5 @@
 <h1 align="center"><b> COLLEGE MADE SIMPLER </b></h1>
+<h3 align="center"><b> Inweb-2.0 Hackathon Winners </b></h3>
 
   <div align="center">   
     
@@ -10,7 +11,7 @@
 
 ## About:
 
-COLLEGE MADE SIMPLER - A web-app which will help students create polls on important issues which are going on in college in order to gain idea of what other students have to say about them and also how many students are in support of the cause. It helps in connecting large number of students, make them aware of the issues and help them come together.
+COLLEGE MADE SIMPLER - A web-app which help students to find automated blogs, courses and create polls on important issues which are going on in college in order to gain idea of what other students have to say about them and also how many students are in support of the cause. It helps in connecting large number of students, make them aware of the issues and help them come together.
 
 ## Quick Glance
 
@@ -75,7 +76,7 @@ Feel free to **file a new issue** with a respective title and description on the
     <a href="https://github.com/mmuazam98" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </td>
-       <td align="center"><a href="Pranjay"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/pranjay.jpg" width="200px;" height="200px;" alt=""/><br /><sub><b>PRANJAY PODDAR</b></sub></a><br ><p align="center">
+       <td align="center"><a href="Pranjay"><img src="https://github.com/mmuazam98/InWeb2.0/blob/main/Github%20Images/pranjay.jpg" width="200px;" height="200px;" alt=""/><br /><sub><b>Pranjay Poddar</b></sub></a><br ><p align="center">
    
    <a href="https://www.linkedin.com/in/pranjay-poddar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:pranjaypoddar@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
