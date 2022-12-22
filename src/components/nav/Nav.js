@@ -37,7 +37,7 @@ function Nav() {
               </Link>{" "}
             </li>
             <li className="nav-item text-center">
-              <a href="https://collegemadesimpler.herokuapp.com" target="_blank" rel="noopener noreferrer" className="nav-link">
+              <a href="https://collegemadesimpler.onrender.com/" target="_blank" rel="noopener noreferrer" className="nav-link">
                 Polling{" "}
               </a>{" "}
             </li>
